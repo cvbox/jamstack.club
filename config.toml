@@ -1,6 +1,6 @@
-baseURL = "https://jamstack.club/"
+baseURL = "https://jamstack.cvbox.org/"
 languageCode = "en-us"
-title = "Jamstack.club"
+title = "Jamstack Free Template & Theme"
 theme = "jamstackthemes"
 paginate = 18
 summaryLength = 10
